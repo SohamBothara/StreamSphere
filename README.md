@@ -66,14 +66,21 @@ bash
 Copy code
 npm start
 Usage
-Home Page: Explore trending movies and search for your favorites.
-Movie Details: Click on a movie to view ratings, summaries, and more.
-My Movie List: Save movies to your list for easy access and management.
-Account Management: Sign up and log in securely to manage your personalized settings.
+
+**Home Page**: Explore trending movies and search for your favorites.
+
+**Movie Details**: Click on a movie to view ratings, summaries, and more.
+
+**My Movie List**: Save movies to your list for easy access and management.
+
+**Account Management**: Sign up and log in securely to manage your personalized settings.
 Future Scope
-Personalized Recommendations: Implement machine learning algorithms for custom suggestions.
+
+**Personalized Recommendations**: Implement machine learning algorithms for custom suggestions.
 Quiz and Test Integration: Engage users with interactive quizzes based on movies.
-Social Features: Allow users to share movie lists and interact within the community.
+
+**Social Features**: Allow users to share movie lists and interact within the community.
+
 Contributors
 Soham Bothara
 Roles: Full-stack development and project management
